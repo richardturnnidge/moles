@@ -2,7 +2,7 @@
 Mouse target practice game.
 This game is for Agon Console8.
 
-Those pesky moles have been diggin up your nice lawn.
+Those pesky moles have been digging up your nice lawn.
 It uses the mouse to control your spade.
 You have 30 seconds to whack as many as you can with your spade.
 
