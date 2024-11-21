@@ -1,5 +1,5 @@
 # Target Practice
-Mouse handline practice game.
+Mouse handling game.
 This game is for Agon Console8 with a mouse, or Agon Light 2 with a mouse adapter attached.
 
 Those pesky moles have been digging up your nice lawn.
