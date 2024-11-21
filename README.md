@@ -1,6 +1,6 @@
-# moles
-Mouse target practice game.
-This game is for Agon Console8.
+# Target Practice
+Mouse handline practice game.
+This game is for Agon Console8 with a mouse, or Agon Light 2 with a mouse adapter attached.
 
 Those pesky moles have been digging up your nice lawn.
 It uses the mouse to control your spade.
